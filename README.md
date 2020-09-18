@@ -1,6 +1,6 @@
 ### Hi there, I'm Hasitha 👋
 
-🔭  I’m currently focusing on my research and academics.
+<!--🔭  I’m currently focusing on my research and academics.-->
 
 <!--
 **Hasitha-Sue/Hasitha-Sue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
