@@ -1,7 +1,7 @@
 ### Hi there, I'm Hasitha 👋
 
 [![Hasitha's github stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Sue)](https://github.com/anuraghazra/github-readme-stats)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sue&layout=compact)
+https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sue&layout=compact
 <!--🔭  I’m currently focusing on my research and academics.-->
 
 <!--
